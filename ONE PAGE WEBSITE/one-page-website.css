@@ -1,0 +1,138 @@
+* {
+  background-color: aliceblue;
+}
+
+
+
+
+header {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: xx-large;
+  background-color: aliceblue;
+}
+
+.About-us {
+  text-align: center;
+
+
+
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+
+}
+
+.home-button {
+  font-size: medium;
+  background-color: darkblue;
+  color: white;
+  margin-right: 10px;
+  border: none;
+  border-radius: 2px;
+}
+
+.contact-button {
+  font-size: medium;
+  background-color: darkblue;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  margin-right: 10px;
+}
+
+.reservation-button {
+  font-size: medium;
+  background-color: darkblue;
+  color: white;
+
+
+  border: none;
+  border-radius: 2px;
+}
+
+.menu-button {
+  display: flex;
+  justify-content: center;
+  font-size: medium;
+  background-color: darkblue;
+  color: white;
+
+  border: none;
+  border-radius: 2px;
+  padding: 18px 50px;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.Gallery {
+  margin: 10px 10px;
+
+
+}
+
+
+input[type="text"] {
+  margin-bottom: 15px;
+}
+
+input[type="email"] {
+  margin-bottom: 15px;
+}
+
+input[type="phone-number"] {
+  margin-bottom: 15px;
+}
+
+input[type="Submit"] {
+  color: darkblue;
+
+
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+}
+
+.card {
+  margin-left: 50px;
+  margin-right: 50px;
+  display: inline-block;
+
+  border-spacing: 8px;
+  font-style: italic;
+  text-align: center;
+
+
+
+}
+
+.contact {
+  font-style: oblique;
+  text-align: center;
+
+
+
+}
+
+
+footer {
+  text-align: center;
+
+
+
+}
+
+.footer-form {
+  background-color: green
+}
